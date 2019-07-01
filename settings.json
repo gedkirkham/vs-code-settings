@@ -1,5 +1,6 @@
 // https://alligator.io/vuejs/eslint-vue-vetur/
 {
+  "workbench.colorTheme": "Visual Studio Dark",
   "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "explorer.confirmDelete": false,
