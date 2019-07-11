@@ -10,6 +10,8 @@
   "[html]": {
     "editor.defaultFormatter": "HookyQR.beautify"
   },
+  "editor.insertSpaceBeforeFunctionParenthesis": false,
+  "editor.formatOnSave": true,
   "html.format.wrapAttributes": "force-expand-multiline",
   "editor.tabCompletion": "on",
   "editor.trimAutoWhitespace": false,
@@ -19,18 +21,17 @@
   "vetur.format.defaultFormatter.html": "js-beautify-html",
   "javascript.format.insertSpaceBeforeFunctionParenthesis": false,
   "eslint.autoFixOnSave": true,
-  "eslint.validate": [
-      {
-        "language": "vue",
-        "autoFix": true
-      },
-      {
-        "language": "html",
-        "autoFix": true
-      },
-      {
-        "language": "javascript",
-        "autoFix": true
-      }
-    ]
+  "eslint.validate": [{
+      "language": "vue",
+      "autoFix": true
+    },
+    {
+      "language": "html",
+      "autoFix": true
+    },
+    {
+      "language": "javascript",
+      "autoFix": true
+    }
+  ]
 }
