@@ -10,7 +10,6 @@
   "[html]": {
     "editor.defaultFormatter": "HookyQR.beautify"
   },
-  "editor.insertSpaceBeforeFunctionParenthesis": false,
   "editor.formatOnSave": true,
   "html.format.wrapAttributes": "force-expand-multiline",
   "editor.tabCompletion": "on",
@@ -33,5 +32,6 @@
       "language": "javascript",
       "autoFix": true
     }
-  ]
+  ],
+  "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false
 }
